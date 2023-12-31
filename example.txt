@@ -1,1 +1,3 @@
-Hi, I am learninh basics of git
+Hi, I am learning basics of git
+
+now I am good with basics now
